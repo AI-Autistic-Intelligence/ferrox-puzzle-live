@@ -1,0 +1,262 @@
+[
+  {
+    "id": "cat_01_cyber_ronin",
+    "title": "Neon Ronin Katana Kitty",
+    "style": "Cyberpunk",
+    "theme": "Neo-Tokyo Alley Rain",
+    "primary_weapon": "Thermal High-Frequency Katana",
+    "secondary_weapon": "Dual Micro-SMGs",
+    "default_pieces": 1000,
+    "description": "Fierce Scottish Fold with bionic cyan eye and high-frequency katana standing on rain-soaked neon pavement."
+  },
+  {
+    "id": "cat_02_mecha_juggernaut",
+    "title": "Mecha Juggernaut Tabby",
+    "style": "Anime Mecha",
+    "theme": "Chibi Mobile Suit Hangar",
+    "primary_weapon": "Twin Heavy Rotary Gatling Cannons",
+    "secondary_weapon": "Shoulder Micro-Missile Pods",
+    "default_pieces": 500,
+    "description": "Ginger tabby piloting an open-cockpit robotic power-suit with sparkling plasma conduits."
+  },
+  {
+    "id": "cat_03_spec_ops_bengal",
+    "title": "Spec-Ops Bengal Operative",
+    "style": "Realistic Tactical",
+    "theme": "Desert Outpost Twilight",
+    "primary_weapon": "Suppressed Tactical SBR",
+    "secondary_weapon": "GPNVG-18 Panoramic NVGs",
+    "default_pieces": 1000,
+    "description": "Bengal kitten in multicam plate carrier with quad-tube night-vision goggles flipped up."
+  },
+  {
+    "id": "cat_04_cyber_decker",
+    "title": "Netrunner Calico Hacker",
+    "style": "Cyberpunk",
+    "theme": "Server Matrix Bunker",
+    "primary_weapon": "Floating Combat Drones",
+    "secondary_weapon": "Cyberdeck Neural Interface",
+    "default_pieces": 1000,
+    "description": "Calico hacker kitten with glowing holographic HUD monocle and neural data cables."
+  },
+  {
+    "id": "cat_05_valkyrie_persian",
+    "title": "Valkyrie Persian Railgunner",
+    "style": "Anime Sci-Fi",
+    "theme": "Starlight Orbital Nebula",
+    "primary_weapon": "Charging Plasma Railgun",
+    "secondary_weapon": "Hard-Light Energy Wings",
+    "default_pieces": 2000,
+    "description": "Long-haired Persian in white ceramic mecha armor with brilliant magenta energy wings."
+  },
+  {
+    "id": "cat_06_arctic_recon",
+    "title": "Arctic Recon Scottish Fold",
+    "style": "Realistic Winter",
+    "theme": "Snowy Pine Wilderness",
+    "primary_weapon": "High-Precision Thermal Sniper",
+    "secondary_weapon": "Winter Camo Ghillie Suit",
+    "default_pieces": 1000,
+    "description": "Fluffy gray kitten camouflaged in snow with frosted whiskers and miniature sniper rifle."
+  },
+  {
+    "id": "cat_07_heavy_breacher",
+    "title": "Heavy Breacher Maine Coon",
+    "style": "Gritty Cyberpunk",
+    "theme": "Underground Metro Station",
+    "primary_weapon": "Modified Heavy Combat Shotgun",
+    "secondary_weapon": "Ballistic Hazard Blast Shield",
+    "default_pieces": 1500,
+    "description": "Titanium-jawed Maine Coon warrior carrying a riot shield and heavy shotgun amidst neon smoke."
+  },
+  {
+    "id": "cat_08_star_admiral",
+    "title": "Star-Fleet Admiral Sphynx",
+    "style": "Anime Sci-Fi Fleet",
+    "theme": "Dreadnought Command Bridge",
+    "primary_weapon": "Gold-Trimmed Plasma Pistol",
+    "secondary_weapon": "Tactical Star-Map Hologram",
+    "default_pieces": 2000,
+    "description": "Noble Sphynx commander overlooking an interstellar armada on the bridge of a flagship."
+  },
+  {
+    "id": "cat_09_synthwave_rider",
+    "title": "Sunset Highway Cyber Racer",
+    "style": "Retro Synthwave 80s",
+    "theme": "Neon Grid Outrun Highway",
+    "primary_weapon": "Nitro Turbo Dash",
+    "secondary_weapon": "Laser Shutter Shades",
+    "default_pieces": 1000,
+    "description": "Cool pilot cat racing down an endless outrun grid towards a giant sliced neon sun."
+  },
+  {
+    "id": "cat_10_steampunk_aeronaut",
+    "title": "Clockwork Aeronaut Siamese",
+    "style": "Steampunk Victorian",
+    "theme": "Zeppelin Airship Sky Dock",
+    "primary_weapon": "Steam Harpoon Rifle",
+    "secondary_weapon": "Brass Telescopic Goggles",
+    "default_pieces": 1200,
+    "description": "Siamese aviator in brass goggles and leather coat surrounded by intricate clockwork gears."
+  },
+  {
+    "id": "cat_11_pixel_ninja",
+    "title": "Cyber Ninja Pixel Cat",
+    "style": "16-Bit Arcade Retro",
+    "theme": "Neo-Tokyo Rooftop Moon",
+    "primary_weapon": "Shadow Katana",
+    "secondary_weapon": "Plasma Shuriken",
+    "default_pieces": 800,
+    "description": "Arcade pixel art ninja cat leaping under a full moon with spinning glowing shurikens."
+  },
+  {
+    "id": "cat_12_ukiyoe_samurai",
+    "title": "Neo-Edo Tiger Ronin",
+    "style": "Ukiyo-e Cyber Samurai",
+    "theme": "Great Cyber Wave of Kanagawa",
+    "primary_weapon": "Dual Muramasa Katanas",
+    "secondary_weapon": "Kabuto Crest Armor",
+    "default_pieces": 1500,
+    "description": "Ferocious tiger warrior in traditional horned kabuto helmet battling through neon tsunami waves."
+  },
+  {
+    "id": "cat_13_arcane_sorcerer",
+    "title": "Rune Mystic Moon Cat",
+    "style": "Dark Fantasy Arcane",
+    "theme": "Celestial Arcane Sanctum",
+    "primary_weapon": "Levitating Astral Orb",
+    "secondary_weapon": "Eldritch Runes",
+    "default_pieces": 1000,
+    "description": "Mystical black cat with amethyst eyes channeling glowing runic circles and celestial energy."
+  },
+  {
+    "id": "cat_14_ferrox_kernel_cat",
+    "title": "Ferrox Core Tactical Cat",
+    "style": "Ferrox Low-Level Kernel",
+    "theme": "Zero-Alloc Silicon PCB",
+    "primary_weapon": "Lock-Free Ring Buffer",
+    "secondary_weapon": "Zero-Copy DMA Concurrency",
+    "default_pieces": 1000,
+    "description": "Tactical systems engineer cat overseeing 1M RPS throughput on the high-speed Ferrox Rust microchip."
+  },
+  {
+    "id": "landscape_01_dolomites_sunset",
+    "title": "Alpine Sunset over Dolomites",
+    "style": "Cinematic Photorealism",
+    "theme": "Italian Alps Twilight",
+    "primary_weapon": "Alpine Golden Hour",
+    "secondary_weapon": "Turquoise Glacial Reflection",
+    "default_pieces": 1000,
+    "description": "Breathtaking panoramic sunset over jagged alpine peaks reflecting in a crystal-clear turquoise lake with pine forests and wildflowers."
+  },
+  {
+    "id": "landscape_02_japanese_zen_autumn",
+    "title": "Kyoto Autumn Zen Garden",
+    "style": "Studio Ghibli Anime Aesthetic",
+    "theme": "Autumn Torii & Koi Stream",
+    "primary_weapon": "Vermilion Torii Gate",
+    "secondary_weapon": "Fiery Japanese Maples & Koi Pond",
+    "default_pieces": 1000,
+    "description": "A serene traditional Japanese autumn landscape with a vibrant torii gate, arched bridge, flaming crimson maples, and a swimming koi stream."
+  },
+  {
+    "id": "landscape_03_cyberpunk_fjord",
+    "title": "Aurora Cyber Fjord",
+    "style": "Cyberpunk Sci-Fi Synthwave",
+    "theme": "Nordic Neon Twilight Fjord",
+    "primary_weapon": "Aurora Borealis Glow",
+    "secondary_weapon": "Neon Fjord Walkways",
+    "default_pieces": 1500,
+    "description": "Futuristic Nordic fjord with crystalline dark cliffs illuminated by shimmering violet and cyan northern lights and neon stilt houses."
+  },
+  {
+    "id": "library_01_victorian_grand",
+    "title": "Grand Victorian Archive",
+    "style": "Dark Academia Classical Oil",
+    "theme": "Multi-Story Vaulted Sanctuary",
+    "primary_weapon": "Wrought-Iron Spiral Staircase",
+    "secondary_weapon": "Antique Leather-Bound Tomes",
+    "default_pieces": 1500,
+    "description": "Monumental Victorian library with multi-tier spiral staircases, towering dark mahogany bookshelves, brass globes, and stained-glass light."
+  },
+  {
+    "id": "library_02_cozy_cottage_bookshop",
+    "title": "Cozy Village Bookshop",
+    "style": "Warm Storybook Watercolor",
+    "theme": "Sunlit European Corner Shop",
+    "primary_weapon": "Sunlit Reading Velvet Nook",
+    "secondary_weapon": "Sleeping Ginger Kitten & Herbal Tea",
+    "default_pieces": 1000,
+    "description": "Enchanting cozy village bookstore filled with climbing ivy, book stacks, an afternoon tea table, and a sleeping kitten on an armchair."
+  },
+  {
+    "id": "library_03_celestial_arcane_archives",
+    "title": "Astral Arcane Archives",
+    "style": "Epic High Fantasy Digital Art",
+    "theme": "Deep Space Cosmic Sanctuary",
+    "primary_weapon": "Levitating Astral Grimoires",
+    "secondary_weapon": "Prismatic Crystal Spheres",
+    "default_pieces": 2000,
+    "description": "Infinite magical library floating in deep space amidst swirling star nebulae, glowing spellbooks in flight, and radiant light bridges."
+  },
+  {
+    "id": "amsterdam_01_canal_blooms_daylight",
+    "title": "Amsterdam Canals & Flower Bikes",
+    "style": "European Impressionist Impasto",
+    "theme": "Sunny Spring Quayside",
+    "primary_weapon": "Flower-Decked Dutch Bicycles",
+    "secondary_weapon": "17th-Century Stepped Gable Brickwork",
+    "default_pieces": 1000,
+    "description": "Sunny historic Amsterdam canal bridge lined with colorful flower-basket bicycles, 17th-century stepped-gable houses, and lively pedestrians."
+  },
+  {
+    "id": "amsterdam_02_rainy_evening_reflections",
+    "title": "Rainy Twilight in Amsterdam",
+    "style": "Cinematic Atmospheric Realism",
+    "theme": "Blue Hour Rain Reflections",
+    "primary_weapon": "Wet Cobblestone Amber Glow",
+    "secondary_weapon": "Canalside Boutique Bakeries & Cafes",
+    "default_pieces": 1200,
+    "description": "Moody Amsterdam canal street at twilight with wet cobblestones reflecting glowing streetlamps, colorful umbrellas, and warm shop windows."
+  },
+  {
+    "id": "amsterdam_03_cyber_canal_neorave",
+    "title": "Neo-Amsterdam Cyber Canal",
+    "style": "Cyberpunk Neon Sci-Fi",
+    "theme": "Holographic Dutch Waterway",
+    "primary_weapon": "Holographic Canal Billboards",
+    "secondary_weapon": "Neon Cyber-Barges & Augmented Crowds",
+    "default_pieces": 1500,
+    "description": "Historic Amsterdam gables upgraded with glowing neon holographic signs, illuminated cybernetic bicycles, and floating futuristic canal markets."
+  },
+  {
+    "id": "haarlem_01_grote_kerk_golden_interior",
+    "title": "Grote Kerk Haarlem: The Golden Organ",
+    "style": "Dutch Golden Age Masterwork",
+    "theme": "Divine Light in St. Bavo Nave",
+    "primary_weapon": "Christian Muller Baroque Organ",
+    "secondary_weapon": "Gothic Ribbed Vaults & Sunbeams",
+    "default_pieces": 1500,
+    "description": "Breathtaking interior of St. Bavo Church in Haarlem with the world-famous gilded Christian Muller organ bathed in radiant golden sunbeams."
+  },
+  {
+    "id": "haarlem_02_market_square_twilight",
+    "title": "Haarlem Grote Markt at Twilight",
+    "style": "Architectural European Impressionism",
+    "theme": "Historic Dutch Town Square",
+    "primary_weapon": "St. Bavo Cathedral Silhouette",
+    "secondary_weapon": "Grote Markt Lantern-Lit Terraces",
+    "default_pieces": 1200,
+    "description": "Atmospheric evening view of Haarlem's Grote Markt square with the monumental Gothic cathedral rising above historic guildhalls and glowing cafes."
+  },
+  {
+    "id": "haarlem_03_gothic_fantasy_cathedral",
+    "title": "Mystic Gothic St. Bavo Cathedral",
+    "style": "Atmospheric Dark Romanticism",
+    "theme": "Moonlit Mist & Stained Glass",
+    "primary_weapon": "Luminous Stained-Glass Rose Window",
+    "secondary_weapon": "Flying Buttresses in Night Mist",
+    "default_pieces": 1500,
+    "description": "Romantic gothic night scene of St. Bavo Cathedral shrouded in twilight mist with ruby and sapphire stained-glass windows glowing in the dark."
+  }
+]
