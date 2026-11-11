@@ -1,4 +1,4 @@
-import * as import1 from "./snippets/puzzle-app-67774d924247ec3b/inline0.js"
+import * as import1 from "./snippets/puzzle-app-2c63d469a31c749c/inline0.js"
 
 
 /**
@@ -1345,7 +1345,7 @@ function __wbg_get_imports() {
     return {
         __proto__: null,
         "./puzzle-app_bg.js": import0,
-        "./snippets/puzzle-app-67774d924247ec3b/inline0.js": import1,
+        "./snippets/puzzle-app-2c63d469a31c749c/inline0.js": import1,
     };
 }
 
