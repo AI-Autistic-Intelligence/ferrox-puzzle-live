@@ -9,8 +9,8 @@ Official public deployment showcase and binary distribution hub for **Ferrox Tac
 
 ## 🎮 100% Free-to-Play & Trasparenza Opere IA
 
-- **100% Free-to-Play**: Il gioco è completamente gratuito, open-source e privo di qualsiasi sistema di pagamento, microtransazione, valute virtuali (senza monete, crediti o gemme) o paywall. Tutti i 26 puzzle dei preset, il multiplayer cooperativo, i temi personalizzati e il supporto fino a 10.000 pezzi con immagini personali sono accessibili al 100% a costo zero.
-- **Opere d'Arte Generate con Intelligenza Artificiale (AI Art)**: Tutte le 26 immagini dei preset inclusi sono state create mediante modelli di Intelligenza Artificiale generativa e ottimizzate in alta definizione (1376×768) per garantire ricchezza di dettagli e massimo coinvolgimento nel puzzle-solving.
+- **100% Free-to-Play**: Il gioco è completamente gratuito, open-source e privo di qualsiasi sistema di pagamento, microtransazione, valute virtuali (senza monete, crediti o gemme) o paywall. Tutti i 33 puzzle dei preset, il multiplayer cooperativo, i temi personalizzati e il supporto fino a 10.000 pezzi con immagini personali sono accessibili al 100% a costo zero.
+- **Opere d'Arte Generate con Intelligenza Artificiale (AI Art)**: Tutte le 33 immagini dei preset inclusi sono state create mediante modelli di Intelligenza Artificiale generativa e ottimizzate in alta definizione (1376×768) per garantire ricchezza di dettagli e massimo coinvolgimento nel puzzle-solving.
 
 ---
 
@@ -18,10 +18,10 @@ Official public deployment showcase and binary distribution hub for **Ferrox Tac
 
 | Feature | Web Demo (GitHub Pages) | Desktop Standalone (.exe) & Mobile (.apk) |
 | :--- | :---: | :---: |
-| **26 Preset Artworks (AI Art)** | ✅ Full Access (Embedded Wasm) | ✅ Full Access (High-Res Disk & Standalone) |
+| **33 Preset Artworks (AI Art)** | ✅ Full Access (Embedded Wasm) | ✅ Full Access (High-Res Disk & Standalone) |
 | **DSU Magnetic Snapping** | ✅ 60 FPS WebGL2 | ✅ Full GPU Native Speed |
 | **Piece Scale** | Fino a 1.000 pezzi | Fino a 10.000 pezzi |
-| **Custom Photo Upload** | Memory Buffer | Native OS File Dialog |
+| **Custom Photo Upload** | ✅ Native HTML5 File Dialog | ✅ Native OS File Dialog |
 | **Cross-Platform Co-Op P2P** | Coming Soon | ✅ Real-Time Multiplayer |
 | **Steam Integration** | ❌ | ✅ Planned (Steamworks SDR) |
 
