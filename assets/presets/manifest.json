@@ -258,5 +258,75 @@
     "secondary_weapon": "Flying Buttresses in Night Mist",
     "default_pieces": 1500,
     "description": "Romantic gothic night scene of St. Bavo Cathedral shrouded in twilight mist with ruby and sapphire stained-glass windows glowing in the dark."
+  },
+  {
+    "id": "vibrant_01_rainbow_tulip_fields",
+    "title": "Rainbow Tulip Fields of Keukenhof",
+    "style": "Vivid Macro Landscape",
+    "theme": "Prismatic Floral Horizon",
+    "primary_weapon": "Botanical Color Beam",
+    "secondary_weapon": "Petal Scatter",
+    "default_pieces": 1000,
+    "description": "Distese infinite di tulipani fiammeggianti nei colori dell'arcobaleno sotto un cielo azzurro cristallino."
+  },
+  {
+    "id": "vibrant_02_hot_air_balloon_fiesta",
+    "title": "Sunburst Balloon Fiesta",
+    "style": "Ultra-Sharp Vibrant Sky",
+    "theme": "Dawn Flight of Colors",
+    "primary_weapon": "Thermal Sky Burner",
+    "secondary_weapon": "Sunbeam Compass",
+    "default_pieces": 1000,
+    "description": "Dozzine di mongolfiere dai motivi geometrici variopinti che si librano sopra canyon illuminati dal primo raggio di sole."
+  },
+  {
+    "id": "vibrant_03_tropical_coral_wonderland",
+    "title": "Fluorescent Coral Wonderland",
+    "style": "Bioluminescent Marine",
+    "theme": "Aquatic Rainbow Kingdom",
+    "primary_weapon": "Prismatic Pearl Beam",
+    "secondary_weapon": "Current Wave",
+    "default_pieces": 1000,
+    "description": "Un fondale marino tropicale cristallino brulicante di coralli fluorescenti e banchi di pesci dai colori ipnotici."
+  },
+  {
+    "id": "vibrant_04_candy_kingdom_carnival",
+    "title": "Whimsical Candy Carnival",
+    "style": "Pure Color Play",
+    "theme": "Sugar Spectrum Fantasy",
+    "primary_weapon": "Cotton Candy Cloud",
+    "secondary_weapon": "Sugar Sparklers",
+    "default_pieces": 1000,
+    "description": "Un mondo incantato e gioioso di leccalecca giganti, giostre caramellate e fontane di sciroppo fiammeggiante."
+  },
+  {
+    "id": "vibrant_05_holi_powder_explosion",
+    "title": "Holi Festival Color Splash",
+    "style": "Dynamic Powder Burst",
+    "theme": "Festival of Radiant Joy",
+    "primary_weapon": "Pigment Vortex",
+    "secondary_weapon": "Chroma Shockwave",
+    "default_pieces": 1000,
+    "description": "Una spettacolare esplosione a mezz'aria di pigmenti polverizzati turchese, magenta, oro e zafferano."
+  },
+  {
+    "id": "vibrant_06_lavender_sunflower_provence",
+    "title": "Golden Sunflowers & Royal Lavender",
+    "style": "High Saturation Impressionism",
+    "theme": "Sun-Drenched Provence",
+    "primary_weapon": "Golden Sunflare",
+    "secondary_weapon": "Aroma Breeze",
+    "default_pieces": 1000,
+    "description": "Il contrasto mozzafiato tra filari ordinati di lavanda viola acceso e campi dorati di girasoli giganti."
+  },
+  {
+    "id": "vibrant_07_kaleidoscope_stained_glass",
+    "title": "Kaleidoscopic Rose Window",
+    "style": "Geometric Luminous Glass",
+    "theme": "Sacred Geometry of Light",
+    "primary_weapon": "Spectral Prism Beam",
+    "secondary_weapon": "Facet Glimmer",
+    "default_pieces": 1000,
+    "description": "Un rosone caleidoscopico dai tasselli di vetro soffiato ultraluminoso attraversato da fasci di luce iridescente."
   }
 ]
