@@ -1,4 +1,4 @@
-import * as import1 from "./snippets/puzzle-app-3f45e035fa599231/inline0.js"
+import * as import1 from "./snippets/puzzle-app-f2b4eb69ae56485e/inline0.js"
 
 
 /**
@@ -197,6 +197,9 @@ function __wbg_get_imports() {
         },
         __wbg_clear_ccb3d618da90fea3: function(arg0, arg1) {
             arg0.clear(arg1 >>> 0);
+        },
+        __wbg_click_c6eff13daacf9806: function(arg0) {
+            arg0.click();
         },
         __wbg_clientX_7207eed549b03753: function(arg0) {
             const ret = arg0.clientX;
@@ -912,6 +915,10 @@ function __wbg_get_imports() {
             const ret = arg0.now();
             return ret;
         },
+        __wbg_now_463ac581d2fc7ea3: function() {
+            const ret = Date.now();
+            return ret;
+        },
         __wbg_now_cace042f68c814d8: function(arg0) {
             const ret = arg0.now();
             return ret;
@@ -996,6 +1003,9 @@ function __wbg_get_imports() {
         __wbg_removeEventListener_4e20bd5fac3de092: function() { return handleError(function (arg0, arg1, arg2, arg3) {
             arg0.removeEventListener(getStringFromWasm0(arg1, arg2), arg3);
         }, arguments); },
+        __wbg_removeItem_6db621e167d16a1c: function() { return handleError(function (arg0, arg1, arg2) {
+            arg0.removeItem(getStringFromWasm0(arg1, arg2));
+        }, arguments); },
         __wbg_remove_8228e91d7ddbc755: function(arg0) {
             arg0.remove();
         },
@@ -1014,6 +1024,9 @@ function __wbg_get_imports() {
         __wbg_result_18db92cd0d0c3bf5: function() { return handleError(function (arg0) {
             const ret = arg0.result;
             return ret;
+        }, arguments); },
+        __wbg_revokeObjectURL_52940372bc4245cf: function() { return handleError(function (arg0, arg1) {
+            URL.revokeObjectURL(getStringFromWasm0(arg0, arg1));
         }, arguments); },
         __wbg_right_87f14139bda7986d: function(arg0) {
             const ret = arg0.right;
@@ -1046,6 +1059,9 @@ function __wbg_get_imports() {
         },
         __wbg_set_download_8e0ceaaeb91cf778: function(arg0, arg1, arg2) {
             arg0.download = getStringFromWasm0(arg1, arg2);
+        },
+        __wbg_set_feb3714f475485ba: function(arg0, arg1, arg2) {
+            arg0.set(getArrayU8FromWasm0(arg1, arg2));
         },
         __wbg_set_height_ae0610d318c3428c: function(arg0, arg1) {
             arg0.height = arg1 >>> 0;
@@ -1269,27 +1285,27 @@ function __wbg_get_imports() {
             return ret;
         },
         __wbindgen_generic_0000000000000001: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [Externref], shim_idx: 1310, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [Externref], shim_idx: 1791, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_37405968d207daee___convert__closures_____invoke___wasm_bindgen_37405968d207daee___JsValue__core_ed718c3d60ebd546___result__Result_____wasm_bindgen_37405968d207daee___JsError___true_);
             return ret;
         },
         __wbindgen_generic_0000000000000002: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 270, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Array<any>")], shim_idx: 493, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_37405968d207daee___convert__closures_____invoke___js_sys_bd60806219b9ca4b___Array______true_);
             return ret;
         },
         __wbindgen_generic_0000000000000003: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Event")], shim_idx: 270, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [NamedExternref("Event")], shim_idx: 493, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_37405968d207daee___convert__closures_____invoke___js_sys_bd60806219b9ca4b___Array______true__4);
             return ret;
         },
         __wbindgen_generic_0000000000000004: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 290, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 513, ret: Result(Unit), inner_ret: Some(Result(Unit)) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_37405968d207daee___convert__closures_____invoke___core_ed718c3d60ebd546___result__Result_____wasm_bindgen_37405968d207daee___JsValue___true_);
             return ret;
         },
         __wbindgen_generic_0000000000000005: function(arg0, arg1) {
-            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 342, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
+            // Cast intrinsic for `Closure(Closure { owned: true, function: Function { arguments: [], shim_idx: 565, ret: Unit, inner_ret: Some(Unit) }, mutable: true }) -> Externref`.
             const ret = makeMutClosure(arg0, arg1, wasm_bindgen_37405968d207daee___convert__closures_____invoke_______true_);
             return ret;
         },
@@ -1345,7 +1361,7 @@ function __wbg_get_imports() {
     return {
         __proto__: null,
         "./puzzle-app_bg.js": import0,
-        "./snippets/puzzle-app-3f45e035fa599231/inline0.js": import1,
+        "./snippets/puzzle-app-f2b4eb69ae56485e/inline0.js": import1,
     };
 }
 
